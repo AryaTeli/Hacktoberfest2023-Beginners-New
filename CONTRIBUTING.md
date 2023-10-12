@@ -132,3 +132,8 @@
 - Bio: Software Engineer | MERN Stack Developer | Beta LSA @ Microsoft
 - Affiliation : Air University
 - GitHub: [Abdul Rehan](https://github.com/abrehan2)
+- 
+- Place: Thane, Maharashtra
+- Bio: AI enthusiast, Footballer
+- Affiliation : MIT ADT University, Pune
+- GitHub: [Arya Teli](https://github.com/AryaTeli)
